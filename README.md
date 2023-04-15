@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java @Advance Academy
+- 🌱 I’m currently participating in a Java BootCamp where we are building the backend of a hotel management system
 - 🔭 I’m currently working on my Bar Zanzibar System
 
 
