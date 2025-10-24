@@ -26,11 +26,6 @@
 ![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4?logo=googledevelopers&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 
-
-### 📱 Mobile SDKs
-![Maps SDK for Android](https://img.shields.io/badge/Maps%20SDK%20for%20Android-34A853?logo=android&logoColor=white)
-![Maps SDK for iOS](https://img.shields.io/badge/Maps%20SDK%20for%20iOS-000000?logo=apple&logoColor=white)
-
 ![Keycloak](https://img.shields.io/badge/Keycloak-3D3D3D?logo=keycloak&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?logo=openid&logoColor=white)
 ![OIDC](https://img.shields.io/badge/OIDC-000000?logo=openid&logoColor=white)
