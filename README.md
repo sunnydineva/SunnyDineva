@@ -18,11 +18,18 @@
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200)
 ![JDBC](https://img.shields.io/badge/JDBC-007396)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200)
-
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162)
-![Kibana](https://img.shields.io/badge/Kibana-005571)
-![Maven](https://img.shields.io/badge/Maven-C71A36)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?logo=amazonaws&logoColor=white)
+![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4?logo=googledevelopers&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+
+
+### 📱 Mobile SDKs
+![Maps SDK for Android](https://img.shields.io/badge/Maps%20SDK%20for%20Android-34A853?logo=android&logoColor=white)
+![Maps SDK for iOS](https://img.shields.io/badge/Maps%20SDK%20for%20iOS-000000?logo=apple&logoColor=white)
 
 ![Keycloak](https://img.shields.io/badge/Keycloak-3D3D3D?logo=keycloak&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?logo=openid&logoColor=white)
