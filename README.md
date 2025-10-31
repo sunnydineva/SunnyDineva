@@ -5,7 +5,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00)
 ![Spring_Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-000000)
 
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=white)
@@ -13,7 +12,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200)
 ![JDBC](https://img.shields.io/badge/JDBC-007396)
@@ -31,6 +29,11 @@
 ![OIDC](https://img.shields.io/badge/OIDC-000000?logo=openid&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-000000?logo=openid&logoColor=white)
+
+![Nmap](https://img.shields.io/badge/Nmap-004A71?logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-000000)
 
 ![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?logo=google&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=black)
