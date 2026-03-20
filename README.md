@@ -10,6 +10,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
@@ -20,6 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-handle)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/your-handle)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/your-team-or-user)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -27,6 +29,7 @@
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200)
 ![JDBC](https://img.shields.io/badge/JDBC-007396)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-000000)
@@ -64,6 +67,7 @@
 ![Apache ActiveMQ](https://img.shields.io/badge/Apache%20ActiveMQ-5A0FC8?logo=apache&logoColor=white)
 ![Camunda BPMN](https://img.shields.io/badge/Camunda%20BPMN-FF4700?logo=camunda&logoColor=white)
 ![JMS](https://img.shields.io/badge/JMS-000000)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
