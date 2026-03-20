@@ -13,7 +13,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+
 ![Sonatype Nexus](https://img.shields.io/badge/Sonatype%20Nexus-1B1C1D?logo=sonatype&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-40BE46?logo=jfrog&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-handle)
