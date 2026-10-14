@@ -38,6 +38,9 @@
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4?logo=googledevelopers&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflareworkers&logoColor=white)****
 
 ![Keycloak](https://img.shields.io/badge/Keycloak-3D3D3D?logo=keycloak&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?logo=openid&logoColor=white)
@@ -63,6 +66,7 @@
 ![Instagram Graph API](https://img.shields.io/badge/Instagram%20Graph%20API-E4405F?logo=instagram&logoColor=white)
 ![Facebook Pages API](https://img.shields.io/badge/Facebook%20Pages%20API-1877F2?logo=facebook&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?logo=google&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram%20API-26A5E4?logo=telegram&logoColor=white)
 
 ![Apache ActiveMQ](https://img.shields.io/badge/Apache%20ActiveMQ-5A0FC8?logo=apache&logoColor=white)
 ![Camunda BPMN](https://img.shields.io/badge/Camunda%20BPMN-FF4700?logo=camunda&logoColor=white)
