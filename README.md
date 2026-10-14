@@ -40,7 +40,7 @@
 ![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4?logo=googledevelopers&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?logo=cloudflare&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflareworkers&logoColor=white)****
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflareworkers&logoColor=white)
 
 ![Keycloak](https://img.shields.io/badge/Keycloak-3D3D3D?logo=keycloak&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?logo=openid&logoColor=white)
